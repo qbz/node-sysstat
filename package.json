@@ -1,0 +1,21 @@
+{
+  "name": "node-sysstat",
+  "version": "1.0.0",
+  "description": "Node system statistic",
+  "main": "index.js",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^3.0.0"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "node test.js",
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.sbis.ru/explain.sbis.ru/node-sysstat.git"
+  },
+  "gypfile": true
+}
