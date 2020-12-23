@@ -1,4 +1,4 @@
-# node-sysstat
+# node-sysstat [![Build Status](https://travis-ci.org/MGorkov/node-sysstat.svg?branch=master)](https://travis-ci.org/MGorkov/node-sysstat)
 Provides Node.JS system statistics in a 'stats' event, emitted in a configurable interval.
 
 While working in the worker_thread environment collects statistics of the worker_thread itself.
