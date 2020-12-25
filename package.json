@@ -1,6 +1,6 @@
 {
   "name": "node-sysstat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node system statistic",
   "main": "index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.sbis.ru/explain.sbis.ru/node-sysstat.git"
+    "url": "git://github.com/MGorkov/node-sysstat.git"
   },
   "author": {
     "name": "Maksim Gorkov",
